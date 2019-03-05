@@ -2,6 +2,8 @@ package miniPoker;
 
 public class emptyCommentClass {
 	
-	//nur für Testzwecke respektive kommentarfunktion
+	/*nur für Testzwecke respektive kommentarfunktion
+	 * hure
+	 */
 
 }
