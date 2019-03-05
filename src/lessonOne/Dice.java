@@ -21,7 +21,7 @@ public class Dice extends Application{
 		for(int i=0;i<2;i++) {
 		Button butt = new Button("Hode");
 		root.add(butt, i, 2);
-		butt.setPrefSize(100, 100);
+		butt.setPrefSize(200, 200);
 		butt.setOnAction((ActionEvent e) -> rollDoice(e));
 		
 		}
